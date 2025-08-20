@@ -11,9 +11,11 @@
 }
 
 .menu-style{
-    margin: 2px;
-    list-style: none;
     display: flex;
     gap: 8px;
     justify-content: flex-end;
+}
+
+.menu{
+    list-style: none;
 }
