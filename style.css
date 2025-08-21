@@ -56,3 +56,21 @@ a{
    font-weight: 300;
 }
 
+
+.img-direita {
+    position: absolute; 
+    bottom: 0; 
+    right: 0; 
+    max-width: 70%; 
+    height: 70%;
+}
+
+.img-esquerda {
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    max-width: 70%; 
+    height: 70%;
+    transform: scaleX(-1);
+}
+
