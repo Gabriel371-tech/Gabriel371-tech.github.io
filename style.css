@@ -8,12 +8,13 @@
     background-color: #f8f7f7;
     padding: 25px 20px;
     border-radius: 85px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .menu-style{
     display: flex;
     gap: 15px;
-    justify-content: flex-end;
 }
 
 .menu{
@@ -21,4 +22,9 @@
     list-style: none;
     font-family: 'Inter', sans-serif;
     font-weight: bold;
+}
+
+.logo{
+    
+    font-family: 'Inter', sans-serif;
 }
